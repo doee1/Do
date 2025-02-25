@@ -660,7 +660,7 @@ div.shape_17 {
   text-align: center;
   align-self: flex-end;
 }
-/* 이미지 썸네알을 감싸고 있는 div */
+/* 이미지 썸네일을 감싸고 있는 div */
 .thumbs a > div > div {
   background-color: #e5e5e5;
   height: 195px;
